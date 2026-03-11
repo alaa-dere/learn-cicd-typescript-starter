@@ -1,4 +1,4 @@
-![status of test](https://github.com/alaa-dere/learn-cicd-typescript-starter/actions/workflows/ci/badge.svg)
+![status of test](https://github.com/alaa-dere/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
