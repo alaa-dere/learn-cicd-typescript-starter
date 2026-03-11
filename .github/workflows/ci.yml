@@ -19,4 +19,4 @@ jobs:
           node-version: 22
 
       - name: print the current version of Node
-        uses: actions/node --version
+        run: actions/node --version
