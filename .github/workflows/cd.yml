@@ -44,7 +44,7 @@ jobs:
             --tag us-central1-docker.pkg.dev/notely-490211/notely-ar-repo/notely-app:latest .
 
       - name: Run database migrations
-        run: npx drizzle-kit migrate
+        run: npm run db:migrate
 
 
 
